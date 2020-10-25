@@ -1,0 +1,14 @@
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeBussinessLayer.deps.json
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeBussinessLayer.dll
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeBussinessLayer.pdb
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeCommenLayer.dll
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeRepositoryLayer.dll
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeRepositoryLayer.pdb
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\bin\Debug\netcoreapp3.1\EmployeeCommenLayer.pdb
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.csprojAssemblyReference.cache
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.AssemblyInfoInputs.cache
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.AssemblyInfo.cs
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.csproj.CoreCompileInputs.cache
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.csproj.CopyComplete
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.dll
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeBussinessLayer\obj\Debug\netcoreapp3.1\EmployeeBussinessLayer.pdb

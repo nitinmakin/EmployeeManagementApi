@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj": {}
+  },
+  "projects": {
+    "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeBussinessLayer\\EmployeeBussinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeBussinessLayer\\EmployeeBussinessLayer.csproj",
+        "projectName": "EmployeeBussinessLayer",
+        "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeBussinessLayer\\EmployeeBussinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Nitin Makin\\.nuget\\packages\\",
+        "outputPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeBussinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nitin Makin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj": {
+                "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\EmployeeCommenLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\EmployeeCommenLayer.csproj",
+        "projectName": "EmployeeCommenLayer",
+        "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\EmployeeCommenLayer.csproj",
+        "packagesPath": "C:\\Users\\Nitin Makin\\.nuget\\packages\\",
+        "outputPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nitin Makin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+        "projectName": "EmployeeManagementApi",
+        "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+        "packagesPath": "C:\\Users\\Nitin Makin\\.nuget\\packages\\",
+        "outputPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeManagementApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nitin Makin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeBussinessLayer\\EmployeeBussinessLayer.csproj": {
+                "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeBussinessLayer\\EmployeeBussinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj",
+        "projectName": "EmployeeRepositoryLayer",
+        "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\Nitin Makin\\.nuget\\packages\\",
+        "outputPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeRepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nitin Makin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\EmployeeCommenLayer.csproj": {
+                "projectPath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\EmployeeCommenLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "knD11KohSbyQXJM17EPS+5ykm32eCjaICcYQ0p2JkuDDnEUpX787CQbiAA7GzIInLzwZrpVWk3Z5xLFxLnIrxg==",
+  "success": true,
+  "projectFilePath": "D:\\fellowship\\Backend\\EmployeeManagementApi\\EmployeeCommenLayer\\EmployeeCommenLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nitin Makin\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}

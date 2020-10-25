@@ -1,0 +1,9 @@
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\bin\Debug\netcoreapp3.1\EmployeeCommenLayer.deps.json
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\bin\Debug\netcoreapp3.1\EmployeeCommenLayer.dll
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\obj\Debug\netcoreapp3.1\EmployeeCommenLayer.csprojAssemblyReference.cache
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\obj\Debug\netcoreapp3.1\EmployeeCommenLayer.AssemblyInfoInputs.cache
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\obj\Debug\netcoreapp3.1\EmployeeCommenLayer.AssemblyInfo.cs
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\bin\Debug\netcoreapp3.1\EmployeeCommenLayer.pdb
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\obj\Debug\netcoreapp3.1\EmployeeCommenLayer.csproj.CoreCompileInputs.cache
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\obj\Debug\netcoreapp3.1\EmployeeCommenLayer.dll
+D:\fellowship\Backend\EmployeeManagementApi\EmployeeCommenLayer\obj\Debug\netcoreapp3.1\EmployeeCommenLayer.pdb
