@@ -27,17 +27,28 @@ namespace EmployeeRepositoryLayer.Service
         {
             try
             {
+                int count = 0;
                 EmployeeModel newEmployee = new EmployeeModel()
                 {
-                    // Id = employee.Id,
                     FirstName = employee.FirstName,
                     LastName = employee.LastName,
                     PhoneNo = employee.PhoneNo,
                     Email = employee.Email,
                     Password = employee.Password
                 };
-                _Employee.InsertOne(newEmployee);
-                return true;
+               
+                List<EmployeeModel> list = this._Employee.Find(employee => true).ToList();
+                for(int i = 0; i < list.Count; i++)
+                {
+                    if (list[i].Email.Equals(newEmployee.Email)) 
+                        count++; 
+                }
+                if(count == 0)
+                {
+                    _Employee.InsertOne(newEmployee);
+                    return true;
+                }
+                return false;
             }
             catch (Exception e)
             {
